@@ -1,0 +1,62 @@
+ /* Comentarios en css */ 
+
+ #titulo
+{
+    background: rgb(213, 92, 47);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Helvetica;
+    text-align: justify;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#subtitulo
+{
+    background: white;
+
+    color: rgb(213, 92, 47);
+    font-weight: bold;
+    font-size: medium;
+    font-family: Helvetica;
+    text-align: center;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#subtituloI
+{
+    background: rgb(213, 92, 47);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Helvetica;
+    text-align: center;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#parrafo
+{
+    background: white;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: black;
+    font-weight: lighter;
+    font-size: medium;
+    font-family: Helvetica;
+    text-align: justify;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#grafico
+{
+    background: white;
+    align-items: center;
+
+    margin: 1;
+    padding: 0.5em;
+}
